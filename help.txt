@@ -1,0 +1,2 @@
+Press LEFT_direction to move the player left of the screen and RIGHT_direction to move the player
+right of the screen .  Use 'F' key to fire the enemies.Try to destroy maximum number of enemies. 
